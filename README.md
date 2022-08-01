@@ -10,7 +10,7 @@ The main aim of docker containers is to get rid of infrastructure dependences wh
 
 Docker images are executable packages (bundled with application code & dependences and software packages, etc.). Docker images can be run at any docker environment and the containers can spun up there to run the application.
 
-**What is a docker file?***
+**What is a docker file?**
 
 Docker file is a text file that has all the command which needs to be run for building an image.
 
